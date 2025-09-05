@@ -12,7 +12,7 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import coil.compose.rememberAsyncImagePainter
-import com.example.seekhotest.data.model.Anime
+import com.example.seekhotest.domain.Anime
 
 @Composable
 fun AnimeScreen(viewModel: AnimeViewModel, onAnimeClick: (Int) -> Unit, modifier: Modifier = Modifier) {

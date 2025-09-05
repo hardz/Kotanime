@@ -2,7 +2,7 @@ package com.example.seekhotest.core.factory
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.seekhotest.repositories.AnimeRepository
+import com.example.seekhotest.data.repositories.AnimeRepository
 import com.example.seekhotest.ui.home.AnimeViewModel
 
 class AnimeViewModelFactory(
