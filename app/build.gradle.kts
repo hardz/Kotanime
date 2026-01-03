@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.seekhotest"
+    namespace = "com.freshlybakedapps.kotanime"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.seekhotest"
+        applicationId = "com.freshlybakedapps.kotanime"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
